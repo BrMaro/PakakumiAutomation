@@ -14,12 +14,8 @@ This script automates the betting process for the crash-style game Pakakumi, pri
    ```bash
    git clone https://github.com/your-username/pakakumi-automation.git
    ```
-2.**Install Dependencies:**
 
-```bash
-pip install -r requirements.txt
-```
-3.**Run the Script:**
+2.**Run the Script:**
 
 ```bash
 python pakakumi_automation.py
@@ -39,6 +35,11 @@ Adjusts betting amounts based on the user's account balance and green counters t
 
 3. **Auto-Cashout**
 Allows users to set an auto-cashout value for their bets, providing additional control over the betting process.
+
+## Requirements
+The necesssary requirements fo this project would be 
+1. **Python Interpreter**
+2. **Selenium ChromeDriver**
 
 ## Disclaimer
 This script is provided for educational and experimental purposes only. Use it responsibly, and be aware of the risks involved in automated betting.
